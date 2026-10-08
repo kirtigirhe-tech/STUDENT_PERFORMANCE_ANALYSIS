@@ -82,7 +82,8 @@ Dashboard & Visualization
 The processed student data is used in Power BI to create an interactive
 dashboard for analyzing student performance and attendance.
 
-![Student Performance Dashboard](proimg.jpg)
+![Student Performance Dashboard](student_performance_dashboard-1.png)
+![Student Performance Dashboard](student_performance_dashboard-2.png)
 
 ## 💡 Key Insights
 
